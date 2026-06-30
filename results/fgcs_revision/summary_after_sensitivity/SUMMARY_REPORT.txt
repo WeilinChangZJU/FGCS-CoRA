@@ -1,0 +1,6 @@
+per_run_rows=2270
+summary_rows=147
+paired_rows=537
+scipy_available=True
+paired_difference = method - baseline; negative favors the method for RMSE/MAE/runtime/wasted-budget metrics.
+scenario pairing includes suite, backbone, dataset, variant, failure_mode, and failure_rate.
