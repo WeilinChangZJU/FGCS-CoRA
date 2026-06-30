@@ -1,6 +1,4 @@
-# FGCS-CoRA
-
-This repository package contains the key CoRA implementation and final experiment evidence used for the FGCS major-revision empirical study.
+# FGCS-CoRA Source Code
 
 ## Contents
 
